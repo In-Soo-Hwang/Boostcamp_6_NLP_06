@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-<body>
-
-<h1 class="centered-h1">가운데 정렬되고 글자 크기가 큰 텍스트</h1>
-
-</body>
-</html>
+# 🫣I들🫣
 
 
 <p align="center">
