@@ -1,7 +1,9 @@
 # <center> Boostcamp 6기 I들의 페이지에 오신 것을 환영합니다! </center>
+
 <p align="center">
-  <img src="https://i.imgur.com/SWtrsIm.png">
+  <img src="https://i.imgur.com/SWtrsIm.png" width="30%">
 </p>
+
 ## 팀원
 
 | img | img | img |
