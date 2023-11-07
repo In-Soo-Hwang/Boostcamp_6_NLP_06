@@ -1,6 +1,6 @@
-<p align="center>
-  //I들
-</p>
+<div align="center>
+  I들
+</div>
 
 <p align="center">
   <img src="https://i.imgur.com/SWtrsIm.png" width="30%">
