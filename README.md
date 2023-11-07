@@ -1,5 +1,6 @@
 # 🫣I들🫣
 
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I들&fontSize=90" />
 
 <p align="center">
   <img src="https://i.imgur.com/SWtrsIm.png" width="30%">
