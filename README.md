@@ -1,12 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
-<style>
-.centered-h1 {
-  text-align: center;
-}
-</style>
-</head>
+
 <body>
 
 <h1 class="centered-h1">가운데 정렬되고 글자 크기가 큰 텍스트</h1>
