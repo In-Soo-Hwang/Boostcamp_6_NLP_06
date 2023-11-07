@@ -8,7 +8,7 @@
 
 | img | img | img |
 |:---:|:---:|:---:|
-|함문정|허재하|황인수|
+|함문정|허재하|[황인수](https://github.com/In-Soo-Hwang/In-Soo-Hwang)|
 
 ## 멘토
 | img |
