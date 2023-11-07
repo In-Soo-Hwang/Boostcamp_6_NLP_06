@@ -1,5 +1,17 @@
-<p align="center"><span style="font-size:400px;">I들</span></p>
+<html>
+<head>
+<style>
+.centered-h1 {
+  text-align: center;
+}
+</style>
+</head>
+<body>
 
+<h1 class="centered-h1">가운데 정렬되고 글자 크기가 큰 텍스트</h1>
+
+</body>
+</html>
 
 <p align="center">
   <img src="https://i.imgur.com/SWtrsIm.png" width="30%">
