@@ -1,4 +1,4 @@
-<html> <head> <style> .center-text { font-size: 20px; } </style> </head> <body> <center class="center-text">I들</center> </body> </html>
+<p style="font-size:20px;"> I들 </p>
 
 <p align="center">
   <img src="https://i.imgur.com/SWtrsIm.png" width="30%">
