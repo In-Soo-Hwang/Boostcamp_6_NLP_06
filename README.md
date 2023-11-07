@@ -4,11 +4,11 @@
 
 | img | img | img |
 |:---:|:---:|:---:|
-|김동언|이건하|임은형|
+|[김동언](https://github.com/ceo21ckim)|[이건하](https://github.com/LeeKunHa)|[임은형](https://github.com/LimEunHyoung)|
 
 | img | img | img |
 |:---:|:---:|:---:|
-|함문정|허재하|[황인수](https://github.com/In-Soo-Hwang/In-Soo-Hwang)|
+|[함문정](https://github.com/jennymjh)|[허재하](https://github.com/jaehahuh)|[황인수](https://github.com/In-Soo-Hwang/In-Soo-Hwang)|
 
 ## 멘토
 | img |
