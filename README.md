@@ -8,7 +8,8 @@
 
 | <img src="https://github.com/In-Soo-Hwang/Boostcamp_6_NLP_06/blob/main/asset/DongEon.jpg"> | <img src="https://github.com/In-Soo-Hwang/Boostcamp_6_NLP_06/blob/main/asset/DongEon.jpg"> | <img src="https://github.com/In-Soo-Hwang/Boostcamp_6_NLP_06/blob/main/asset/DongEon.jpg"> |
 |:---:|:---:|:---:|
-|[김동언](https://github.com/ceo21ckim)|[이건하](https://github.com/LeeKunHa)|[임은형](https://github.com/LimEunHyoung)|
+|김동언, DongEon, Kim.|
+| <p align="center"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ponben@khu.ac.kr"/>| - | - |
 | [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ponben@khu.ac.kr)](ponben@khu.ac.kr) | - | - |
 | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dongeon-kim-59777422a///)](https://www.linkedin.com/in/dongeon-kim-59777422a/) | - | - |
 | [![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://ok-lab.tistory.com/)](https://ok-lab.tistory.com/)|
