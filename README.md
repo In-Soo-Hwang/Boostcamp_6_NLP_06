@@ -6,7 +6,7 @@
 
 ## 팀원
 
-| <img src="https://github.com/In-Soo-Hwang/Boostcamp_6_NLP_06/blob/main/asset/DongEon.jpg" width="40%"> | img | img |
+| <img src="https://github.com/In-Soo-Hwang/Boostcamp_6_NLP_06/blob/main/asset/DongEon.jpg" width="40%" height="40%"> | img | img |
 |:---:|:---:|:---:|
 |[김동언](https://github.com/ceo21ckim)|[이건하](https://github.com/LeeKunHa)|[임은형](https://github.com/LimEunHyoung)|
 
