@@ -1,3 +1,5 @@
+# Author: DongEon, Kim.
+
 # 최댓값과 최솟값 
 '''
 문자열 s에는 공백으로 구분된 숫자들이 저장되어 있습니다. 
@@ -11,6 +13,7 @@ s               return
 "-1 1"          "-1 -1"
 '''
 
+# 2023-11-08
 # solution 1 -> list comprehension
 def solution(s):
     s = [int(x) for x in s.split()]
