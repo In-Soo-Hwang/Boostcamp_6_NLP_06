@@ -6,11 +6,11 @@
 
 ## 팀원
 
-| <img src="https://github.com/In-Soo-Hwang/Boostcamp_6_NLP_06/blob/main/asset/DongEon.jpg" width="20%" height="20%"> | img | img |
+| <img src="https://github.com/In-Soo-Hwang/Boostcamp_6_NLP_06/blob/main/asset/DongEon.jpg" width="15%" height="15%"> | <img src="https://github.com/In-Soo-Hwang/Boostcamp_6_NLP_06/blob/main/asset/DongEon.jpg" width="15%" height="15%"> | <img src="https://github.com/In-Soo-Hwang/Boostcamp_6_NLP_06/blob/main/asset/DongEon.jpg" width="15%" height="15%"> |
 |:---:|:---:|:---:|
 |[김동언](https://github.com/ceo21ckim)|[이건하](https://github.com/LeeKunHa)|[임은형](https://github.com/LimEunHyoung)|
 
-| img | img | img |
+| <img src="https://github.com/In-Soo-Hwang/Boostcamp_6_NLP_06/blob/main/asset/DongEon.jpg" width="15%" height="15%"> | <img src="https://github.com/In-Soo-Hwang/Boostcamp_6_NLP_06/blob/main/asset/DongEon.jpg" width="15%" height="15%"> | <img src="https://github.com/In-Soo-Hwang/Boostcamp_6_NLP_06/blob/main/asset/DongEon.jpg" width="15%" height="15%"> |
 |:---:|:---:|:---:|
 |[함문정](https://github.com/jennymjh)|[허재하](https://github.com/jaehahuh)|[황인수](https://github.com/In-Soo-Hwang/In-Soo-Hwang)|
 
