@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/SWtrsIm.png" width="30%">
 </p>
 
-## 팀원
+# 팀원
 
 | <img src="https://github.com/In-Soo-Hwang/Boostcamp_6_NLP_06/blob/main/asset/DongEon.jpg" width="300" height="300"> | <img src="https://github.com/In-Soo-Hwang/Boostcamp_6_NLP_06/blob/main/asset/eunhy.jpg" width="300" height="300"> | <img src="https://github.com/In-Soo-Hwang/Boostcamp_6_NLP_06/blob/main/asset/KunHa.jpg" width="300" height="300"> |
 |:---:|:---:|:---:|
