@@ -13,7 +13,7 @@
 | <p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Sklearn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/> | <p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> | <p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> |
 
 
-| <img src="https://github.com/In-Soo-Hwang/Boostcamp_6_NLP_06/blob/main/asset/DongEon.jpg" width="300" height="300"> | <img src="https://github.com/In-Soo-Hwang/Boostcamp_6_NLP_06/blob/main/asset/DongEon.jpg" width="300" height="300"> | <img src="https://github.com/In-Soo-Hwang/Boostcamp_6_NLP_06/blob/main/asset/DongEon.jpg" width="300" height="300"> |
+| <img src="https://github.com/In-Soo-Hwang/Boostcamp_6_NLP_06/blob/main/asset/DongEon.jpg" width="300" height="300"> | <img src="https://github.com/In-Soo-Hwang/Boostcamp_6_NLP_06/blob/main/asset/DongEon.jpg" width="300" height="300"> | <img src="https://github.com/In-Soo-Hwang/Boostcamp_6_NLP_06/blob/main/asset/InsooHwang.jpg" width="300" height="300"> |
 |:---:|:---:|:---:|
 |[함문정](https://github.com/jennymjh)|[허재하](https://github.com/jaehahuh)|[황인수](https://github.com/In-Soo-Hwang/In-Soo-Hwang)|
 
