@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=🫣I들🫣&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=I들&fontSize=90" />
 
 <p align="center">
   <img src="https://i.imgur.com/SWtrsIm.png" width="30%">
@@ -18,8 +18,3 @@
 |[함문정](https://github.com/jennymjh)|[허재하](https://github.com/jaehahuh)|**황인수, In-Soo Hwang**|
 | | | [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:insoo0411@gmail.com)](mailto:insoo0411@gmail.com) |
 | | |<p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> |
-
-## 멘토
-| img |
-|:---:|
-|임경현|
