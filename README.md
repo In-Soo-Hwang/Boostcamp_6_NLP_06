@@ -13,6 +13,6 @@
 
 | <img src="https://github.com/In-Soo-Hwang/Boostcamp_6_NLP_06/blob/main/asset/DongEon.jpg" width="300" height="300"> | <img src="https://github.com/In-Soo-Hwang/Boostcamp_6_NLP_06/blob/main/asset/DongEon.jpg" width="300" height="300"> | <img src="https://github.com/In-Soo-Hwang/Boostcamp_6_NLP_06/blob/main/asset/InsooHwang.png" width="300" height="300"> |
 |:---:|:---:|:---:|
-|**함문정, Moon-Jeong Hahm**||[허재하](https://github.com/jaehahuh)||**황인수, In-Soo Hwang**|
+|**함문정, Moon-Jeong Hahm**|[허재하](https://github.com/jaehahuh)|**황인수, In-Soo Hwang**|
 | | | [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:insoo0411@gmail.com)](mailto:insoo0411@gmail.com) [![Blog Badge](http://img.shields.io/badge/-Blog-black?style=flat-square&logo=github&link=https://insoo-hwang.tistory.com/)](https://insoo-hwang.tistory.com/)|
 | | |<p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> |
