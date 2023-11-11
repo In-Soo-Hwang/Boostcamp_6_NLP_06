@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://i.imgur.com/SWtrsIm.png](https://github.com/In-Soo-Hwang/Boostcamp_6_NLP_06/blob/main/asset/teamlogo.png?raw=true)" width="30%">
+  <img src="https://github.com/In-Soo-Hwang/Boostcamp_6_NLP_06/blob/main/asset/teamlogo.png?raw=true" width="30%">
 </p>
 
 # 팀원
